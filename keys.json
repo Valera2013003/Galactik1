@@ -1,1 +1,10 @@
-{}
+{
+  "ROLEST-ABC123DEF456": {
+    "days": 30,
+    "generated_at": "2024-12-15T14:30:22",
+    "expires_at": "2025-01-14T14:30:22",
+    "used_by": null,
+    "used_at": null,
+    "created_by": "admin"
+  }
+}
