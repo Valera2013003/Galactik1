@@ -8,4 +8,15 @@
         "created_by": "admin",
         "status": "used"
     }
+
+    {
+    "GALACTIK-ABC123D2332": {
+        "days": 1,
+        "generated_at": "2024-12-15T14:30:22",
+        "expires_at": "2025-12-12T14:30:22",
+        "used_by": "",
+        "used_at": "2025-12-11T16:51:07.467388",
+        "created_by": "admin",
+        "status": "used"
+    }
 }
