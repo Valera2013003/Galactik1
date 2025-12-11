@@ -16,8 +16,8 @@
     "DDDD": {
         "password": "fa80828f32474e88325a1d0bd4339bb892b96639543b6a2808a6b30615fbacb7",
         "created_at": "2025-12-11T19:42:38.181295",
-        "subscription_end": null,
-        "key_used": null,
+        "subscription_end": "2025-12-12T19:49:22.434885",
+        "key_used": "ROLEST-JKL345MNO678",
         "last_login": "2025-12-11T19:42:38.181305",
         "notified_expired": false
     }
