@@ -5,5 +5,12 @@
         "subscription_end": "2026-01-10T16:51:07.467376",
         "key_used": "GALACTIK-ABC123DEF456",
         "last_login": "2025-12-11T16:49:26.315682"
+    },
+    "Valera": {
+        "password": "8ae01aa8aee5ac23ef4995cb1559f0a6d36545d72a8d7973cb445a0dcd8e231e",
+        "created_at": "2025-12-11T17:56:46.968753",
+        "subscription_end": null,
+        "key_used": null,
+        "last_login": "2025-12-11T17:56:46.968763"
     }
 }
