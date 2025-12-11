@@ -1,10 +1,11 @@
 {
-  "GALACTIK-ABC123DEF456": {
-    "days": 30,
-    "generated_at": "2024-12-15T14:30:22",
-    "expires_at": "2026-01-14T14:30:22",
-    "used_by": null,
-    "used_at": null,
-    "created_by": "admin"
-  }
+    "GALACTIK-ABC123DEF456": {
+        "days": 30,
+        "generated_at": "2024-12-15T14:30:22",
+        "expires_at": "2026-01-14T14:30:22",
+        "used_by": "TH3HANTERS",
+        "used_at": "2025-12-11T16:50:56.919283",
+        "created_by": "admin",
+        "status": "used"
+    }
 }
