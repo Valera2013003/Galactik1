@@ -1,22 +1,56 @@
 {
-    "GALACTIK-ABC123DEF456": {
-        "days": 30,
-        "generated_at": "2024-12-15T14:30:22",
-        "expires_at": "2026-01-14T14:30:22",
-        "used_by": "TH3HANTERS",
-        "used_at": "2025-12-11T16:51:07.467388",
-        "created_by": "admin",
-        "status": "used"
-    }
-
-    {
-    "GALACTIK-ABC123D2332": {
-        "days": 1,
-        "generated_at": "2024-12-15T14:30:22",
-        "expires_at": "2025-12-12T14:30:22",
-        "used_by": "null",
-        "used_at": "2025-12-11T16:51:07.467388",
-        "created_by": "admin",
-        "status": "used"
-    }
+  "ROLEST-ABC123DEF456": {
+    "days": 30,
+    "generated_at": "2024-01-15T10:30:00",
+    "expires_at": "2024-02-14T10:30:00",
+    "used_by": "username123",
+    "used_at": "2024-01-20T14:25:00",
+    "created_by": "admin",
+    "status": "used"
+  },
+  "ROLEST-XYZ789GHI012": {
+    "days": 365,
+    "generated_at": "2024-01-15T10:32:00",
+    "expires_at": "2025-01-15T10:32:00",
+    "used_by": null,
+    "used_at": null,
+    "created_by": "admin",
+    "status": "active"
+  },
+  "ROLEST-JKL345MNO678": {
+    "days": 1,
+    "generated_at": "2024-01-16T09:15:00",
+    "expires_at": "2025-012-12T09:15:00",
+    "used_by": null,
+    "used_at": null,
+    "created_by": "admin",
+    "status": "active"
+  },
+  "ROLEST-PQR901STU234": {
+    "days": 14,
+    "generated_at": "2024-01-16T11:20:00",
+    "expires_at": "2024-01-30T11:20:00",
+    "used_by": "player456",
+    "used_at": "2024-01-18T16:45:00",
+    "created_by": "admin",
+    "status": "used"
+  },
+  "ROLEST-VWX567YZA890": {
+    "days": 9999,
+    "generated_at": "2024-01-17T14:00:00",
+    "expires_at": "2099-12-31T23:59:59",
+    "used_by": null,
+    "used_at": null,
+    "created_by": "admin",
+    "status": "active"
+  },
+  "ROLEST-BCD123EFG456": {
+    "days": 30,
+    "generated_at": "2024-01-18T12:00:00",
+    "expires_at": "2024-02-17T12:00:00",
+    "used_by": null,
+    "used_at": null,
+    "created_by": "seller",
+    "status": "active"
+  }
 }
