@@ -23,12 +23,9 @@
     },
     "": {
         "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "hwid": "a5242be6c9ec73313564de860b9a0f7365670d322d58a412fcc8d6147638078b",
-        "sub_end": null
-    },
-    "DDD": {
-        "password": "21d6e40db048d60844fc9e9770f76e0087514fbf05260a1edcf14e5d83d4090b",
-        "hwid": "a5242be6c9ec73313564de860b9a0f7365670d322d58a412fcc8d6147638078b",
-        "sub_end": null
+        "hwid": "f902d3c7a1d05ab0cc16e6868af1477f1257f290be56224ee838d440904957c4",
+        "created_at": "2026-01-16T19:20:37.828349",
+        "subscription_end": null,
+        "notified_expired": false
     }
 }
