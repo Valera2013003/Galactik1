@@ -20,5 +20,10 @@
         "key_used": "ROLEST-JKL345MNO678",
         "last_login": "2025-12-11T19:42:38.181305",
         "notified_expired": true
+    },
+    "": {
+        "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "hwid": "a5242be6c9ec73313564de860b9a0f7365670d322d58a412fcc8d6147638078b",
+        "sub_end": null
     }
 }
